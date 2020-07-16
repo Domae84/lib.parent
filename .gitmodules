@@ -1,0 +1,3 @@
+[submodule "lib.comp_a"]
+	path = lib.comp_a
+	url = https://github.com/Domae84/lib.comp_a.git
